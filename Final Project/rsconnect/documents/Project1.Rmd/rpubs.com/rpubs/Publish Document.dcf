@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/233114/4b646fa8b3e04b8e9db774031e557dae
+bundleId: https://api.rpubs.com/api/v1/document/233114/4b646fa8b3e04b8e9db774031e557dae
+url: http://rpubs.com/NavidLambertShirzad/233114
+when: 1480972454.56136
